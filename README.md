@@ -1,6 +1,6 @@
 # Transfer-Learning-in-Sentiment-Tweets
 
-Task: Demonstrate the effective and efficiency of transfer learning via the 
+**Task**: Demonstrate the effective and efficiency of transfer learning via the 
 Universal Language Model Fine-tuning model in NLP applications
 
 For this demonstration, the Twitter data on people's belief on global warming/climate is used. 
