@@ -1,16 +1,22 @@
 # Transfer-Learning-in-Sentiment-Tweets
 
-Task: Demonstrate the effective and efficiency of transfer learning in NLP applications
-
-### Prerequisites:
-* Python 3
-* fastai
-* pytorch
-* numpy, seaborn, pandas
-* data source: [Figure-Eight](https://www.figure-eight.com/data-for-everyone/)
+Task: Demonstrate the effective and efficiency of transfer learning via the 
+Universal Language Model Fine-tuning model in NLP applications
 
 For this demonstration, the Twitter data on people's belief on global warming/climate is used. 
 Note that the sentiment of the tweets are based on the contributors evaluation of the tweets.
+This demonstration is done on a jupyter notebook.
+
+### Prerequisites:
+* Python 3
+* Jupyter notebook
+* fastai
+* pytorch
+* re
+* numpy, seaborn, pandas
+* data source: [Figure-Eight](https://www.figure-eight.com/data-for-everyone/)
+
+
 
 ### Description
 This notebook focuses on the so-called Universal Language Model Fine-tuning (ULMFiT) introduced by 
